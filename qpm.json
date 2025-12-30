@@ -1,0 +1,40 @@
+{
+  "version": "0.4.0",
+  "sharedDir": "shared",
+  "dependenciesDir": "extern",
+  "info": {
+    "name": "neko-saber",
+    "id": "com.3rrogix.neko-saber",
+    "version": "1.0.0",
+    "url": "https://github.com/3rrogix/neko-saber",
+    "additionalData": {}
+  },
+  "workspace": {
+    "scripts": {},
+    "qmodIncludeDirs": [],
+    "qmodIncludeFiles": [],
+    "qmodOutput": null
+  },
+  "dependencies": [
+    {
+      "id": "paper2_scotland2",
+      "versionRange": "^4.6.4",
+      "additionalData": {}
+    },
+    {
+      "id": "beatsaber-hook",
+      "versionRange": "^6.4.2",
+      "additionalData": {}
+    },
+    {
+      "id": "bsml",
+      "versionRange": "^0.4.55",
+      "additionalData": {}
+    },
+    {
+      "id": "custom-types",
+      "versionRange": "^0.18.3",
+      "additionalData": {}
+    }
+  ]
+}
