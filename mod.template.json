@@ -36,11 +36,26 @@
   "lateModFiles": [],
   "libraryFiles": [],
   "fileCopies": [
-    "assets/solo_bg.png",
-    "assets/settings_bg.png",
-    "assets/campaign_bg.png",
-    "assets/multiplayer_bg.png",
-    "cover.png"
+    {
+      "name": "assets/solo_bg.png",
+      "target": "solo_bg.png"
+    },
+    {
+      "name": "assets/settings_bg.png",
+      "target": "settings_bg.png"
+    },
+    {
+      "name": "assets/campaign_bg.png",
+      "target": "campaign_bg.png"
+    },
+    {
+      "name": "assets/multiplayer_bg.png",
+      "target": "multiplayer_bg.png"
+    },
+    {
+      "name": "cover.png",
+      "target": "cover.png"
+    }
   ],
   "copyExtensions": []
 }
