@@ -38,23 +38,23 @@
   "fileCopies": [
     {
       "name": "assets/solo_bg.png",
-      "target": "solo_bg.png"
+      "destination": "solo_bg.png"
     },
     {
       "name": "assets/settings_bg.png",
-      "target": "settings_bg.png"
+      "destination": "settings_bg.png"
     },
     {
       "name": "assets/campaign_bg.png",
-      "target": "campaign_bg.png"
+      "destination": "campaign_bg.png"
     },
     {
       "name": "assets/multiplayer_bg.png",
-      "target": "multiplayer_bg.png"
+      "destination": "multiplayer_bg.png"
     },
     {
       "name": "cover.png",
-      "target": "cover.png"
+      "destination": "cover.png"
     }
   ],
   "copyExtensions": []
