@@ -9,6 +9,12 @@
     "url": "https://github.com/3rrogix/neko-saber",
     "additionalData": {}
   },
+  "config": {
+    "ndk": {
+      "version": "21.4.7075529",
+      "path": null
+    }
+  },
   "workspace": {
     "scripts": {},
     "qmodIncludeDirs": [],
